@@ -1,6 +1,6 @@
 # tugas3_prakpam
-
-A new Flutter project.
+Tugas 3 Latihan Responsi
+Nasywan Jibran Aryadi_124220038
 
 ## Getting Started
 
